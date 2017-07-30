@@ -1,0 +1,38 @@
+{
+	"name": "中国",
+	"provinces":
+	[
+		{"name": "北京", "value":	60691},
+		{"name": "天津", "value":	28102},
+		{"name": "河北", "value":	17815},
+		{"name": "山西", "value":	9442},
+		{"name": "内蒙古", "value":7975},
+		{"name": "辽宁", "value":	8687},
+		{"name": "吉林", "value":	7332},
+		{"name": "黑龙江", "value":8773},
+		{"name": "上海", "value":	55217},
+		{"name": "江苏", "value":	26418},
+		{"name": "浙江", "value":	27310},
+		{"name": "安徽", "value":	15648},
+		{"name": "福建", "value":	23279},
+		{"name": "江西", "value":	10989},
+		{"name": "山东", "value":	16421},
+		{"name": "河南", "value":	15387},
+		{"name": "湖北", "value":	17390},
+		{"name": "湖南", "value":	9669},
+		{"name": "广东", "value":	30199},
+		{"name": "广西", "value":	9198},
+		{"name": "海南", "value":	10532},
+		{"name": "重庆", "value":	10499},
+		{"name": "四川", "value":	12141},
+		{"name": "贵州", "value":	7451},
+		{"name": "云南", "value":	9769},
+		{"name": "西藏", "value":	8181},
+		{"name": "陕西", "value": 9908},
+		{"name": "甘肃", "value":	10288},
+		{"name": "青海", "value":	6023},
+		{"name": "宁夏", "value":	5732},
+		{"name": "新疆", "value":	6865},
+		{"name": "台湾", "value": 45754}
+	]
+}
